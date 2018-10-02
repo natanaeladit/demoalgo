@@ -75,7 +75,7 @@ public class AnyUserData {
 		latestScanList.add(new LogRecord("a8:bd:27:a6:ff:b3", -110));
 		latestScanList.add(new LogRecord("a8:bd:27:a7:24:23", -58));
 		latestScanList.add(new LogRecord("a8:bd:27:a7:24:22", -110));
-		
+
 		latestScanList.add(new LogRecord("a8:bd:27:a7:24:21", -59));
 		latestScanList.add(new LogRecord("18:d6:c7:d8:52:a4", -59));
 		latestScanList.add(new LogRecord("4c:ed:fb:b1:37:b0", -110));
@@ -86,6 +86,23 @@ public class AnyUserData {
 		latestScanList.add(new LogRecord("18:d6:c7:d8:54:af", -60));
 		latestScanList.add(new LogRecord("88:d7:f6:bd:ca:c4", -110));
 		latestScanList.add(new LogRecord("a8:bd:27:a7:23:f3", -110));
+
+		latestScanList.add(new LogRecord("a0:04:60:69:67:de", -87));
+		latestScanList.add(new LogRecord("8a:15:04:bc:02:af", -110));
+		latestScanList.add(new LogRecord("7c:8b:ca:39:02:b2", -110));
+		latestScanList.add(new LogRecord("d2:6e:0e:af:d1:f7", -110));
+		latestScanList.add(new LogRecord("e0:8e:3c:36:fc:89", -84));
+		latestScanList.add(new LogRecord("00:1a:8c:82:4c:37", -89));
+		latestScanList.add(new LogRecord("94:b4:0f:c7:2b:71", -110));
+		latestScanList.add(new LogRecord("94:b4:0f:c7:2b:73", -110));
+		latestScanList.add(new LogRecord("94:b4:0f:c7:2b:72", -86));
+
+		latestScanList.add(new LogRecord("00:1a:8c:82:4c:38", -90));
+		latestScanList.add(new LogRecord("94:b4:0f:c7:aa:03", -110));
+		latestScanList.add(new LogRecord("94:b4:0f:c7:11:a3", -81));
+		latestScanList.add(new LogRecord("fe:ec:da:8b:fd:8c", -90));
+		latestScanList.add(new LogRecord("6c:72:20:11:b4:1a", -87));
+		latestScanList.add(new LogRecord("f0:5c:19:50:ce:53", -87));
 
 		r.records = latestScanList;
 		r.heading = 270;
