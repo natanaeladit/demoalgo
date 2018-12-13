@@ -6,7 +6,7 @@ import java.util.Comparator;
 
 public class Algorithms {
 
-	final static String K = "4";
+	final static String K = "2";
 
 	public static String ProcessingAlgorithms(ArrayList<LogRecord> latestScanList, RadioMap RM, int algorithm_choice) {
 
