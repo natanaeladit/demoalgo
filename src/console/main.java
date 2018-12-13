@@ -19,7 +19,7 @@ public class main {
         // FIND
         // PostSensorDataToFind();
 
-        // Prediction
+        // Filter Prediction
         // filteringLocationPrediction();
     }
 
