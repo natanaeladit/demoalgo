@@ -18,7 +18,9 @@ public class main {
 
         // FIND
         // PostSensorDataToFind();
-        filteringLocationPrediction();
+
+        // Prediction
+        // filteringLocationPrediction();
     }
 
     private static void filteringLocationPrediction(){
