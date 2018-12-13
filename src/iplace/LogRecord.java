@@ -1,4 +1,4 @@
-package anyplace;
+package iplace;
 
 public class LogRecord {
 

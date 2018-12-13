@@ -1,4 +1,4 @@
-package android.anyplace;
+package android.iplace;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,8 +8,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
-import anyplace.LocDistance;
-import anyplace.LogRecord;
+import iplace.LocDistance;
+import iplace.LogRecord;
 
 public class Algorithms {
 

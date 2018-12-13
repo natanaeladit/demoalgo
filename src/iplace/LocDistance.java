@@ -1,4 +1,4 @@
-package anyplace;
+package iplace;
 
 public class LocDistance {
 	private double distance;
